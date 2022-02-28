@@ -28,26 +28,43 @@ body{
 }
 
 .round {
-    width: 7em;
-    height: 7em;
+    width: 9em;
+    height:9em;
     border-radius: 50%;
-    border-color: red;
+    border: white solid .5em;
+    margin:0 auto
 
 }
 
 
 .design {
     background-color: #E6563B;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .develop {
     background-color: #DEA03D;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .support {
     background-color: #7CBA6C;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .host {
     background-color: #00ABA9;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 @media (min-width: 1200px) {
     .order-6 {
@@ -115,6 +132,7 @@ body{
 }
 h1{
     font-size: xx-large;
+
 }
 h2{
 
