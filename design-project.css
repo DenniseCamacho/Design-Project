@@ -27,7 +27,28 @@ body{
     background-color: #f0f0f0;
 }
 
+.round {
+    width: 7em;
+    height: 7em;
+    border-radius: 50%;
+    border-color: red;
 
+}
+
+
+.design {
+    background-color: #E6563B;
+
+}
+.develop {
+    background-color: #DEA03D;
+}
+.support {
+    background-color: #7CBA6C;
+}
+.host {
+    background-color: #00ABA9;
+}
 @media (min-width: 1200px) {
     .order-6 {
         width: auto;
