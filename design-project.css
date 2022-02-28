@@ -2,7 +2,7 @@ h1 h2 h3 h4 h5 {
     font-family: 'Anton', sans-serif;
     font-family: 'Raleway', sans-serif;
 }
-#logo-text{
+#logo-text, a{
     font-family: 'Abel', sans-serif;
     font-family: 'Anton', sans-serif;
     font-family: 'Raleway', sans-serif;
@@ -77,6 +77,12 @@ body{
     align-items: center;
     justify-content: center;
 }
+a {
+    color: black;
+    font-weight: bold;
+}
+
+
 @media (min-width: 1200px) {
     .order-6 {
         width: auto;
