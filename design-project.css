@@ -37,9 +37,15 @@ body{
     height:9em;
     border-radius: 50%;
     border: white solid .5em;
-    margin:0 auto
+
 
 }
+.bigCircle1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
 
 
 .design {
@@ -136,7 +142,8 @@ body{
 
 }
 h1{
-    font-size: xx-large;
+    font-size: 48px;
+    font-weight: bold;
 
 }
 h2{
