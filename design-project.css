@@ -22,8 +22,8 @@ nav > ul {
 }
 .small li {
     border-radius: 50%;
-    width: 4em;
-    height: 4em;
+    width: 18px;
+    height: 18px;
 }
 .order-6 {
     order: 6;
