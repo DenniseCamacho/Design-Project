@@ -139,6 +139,7 @@ a {
 
     .order-6 {
         width: 100%;
+
     }
 
 }
@@ -152,6 +153,8 @@ a {
 
     .order-6 {
         width: 100%;
+
+
     }
 
 }
@@ -181,8 +184,7 @@ h2{
 
 
 .logo {
-    position: relative;
-    left: 210px;
+
     margin: auto;
     height: 105px;
     width: 105px;
