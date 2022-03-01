@@ -13,6 +13,10 @@ nav > ul {
     padding-top: 30px;
 
 }
+
+
+
+
 .small{
 }
 .small li {
@@ -73,7 +77,7 @@ a {
     font-family: Abel;
 }
 
-#project-text, #selected-txt {
+.project-text, .selected-txt {
     font-family: 'Abel', sans-serif;
     font-size: initial;
 }
@@ -129,6 +133,15 @@ a {
 
     }
 
+    .img {
+        width: 100%;
+    }
+    /*.selected-work {*/
+    /*    width: 50%;*/
+    /*}*/
+
+
+
 }
 
 
@@ -141,10 +154,11 @@ a {
     .order-6 {
         width: 100%;
         order: 6;
-
     }
-
 }
+
+
+
 h1{
     font-size: 48px;
 }
@@ -178,3 +192,5 @@ h1{
     text-align: center;
     display: block;
 }
+
+
